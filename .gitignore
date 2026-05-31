@@ -11,3 +11,9 @@ __pycache__/
 
 # Файли VS Code (необов'язково, але корисно)
 .vscode/
+
+# Датасети та архіви
+arxiv.zip
+arxiv-metadata-oai-snapshot.json
+data/
+embeddings/
